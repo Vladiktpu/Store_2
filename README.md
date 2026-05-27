@@ -118,5 +118,4 @@ http://localhost:8000
 
 - [![GitHub](https://img.shields.io/badge/Влад-181717?style=flat&logo=github)](https://github.com/Vladiktpu)
 - [![GitHub](https://img.shields.io/badge/Женя-181717?style=flat&logo=github)](https://github.com/zheny77)
-- [![GitHub](https://img.shields.io/badge/Женя-181717?style=flat&logo=github)](https://github.com/zheny77)
 
