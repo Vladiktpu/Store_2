@@ -80,7 +80,7 @@ DB_NAME=shop_db
 ## Как запустить проект
 
 ### 1. Клонировать репозиторий
-```bash
+
 git clone https://github.com/Vladiktpu/Store_2.git
 cd Store_2
 
