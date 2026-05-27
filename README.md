@@ -92,7 +92,7 @@ venv\Scripts\activate
 # Mac/Linux:
 source venv/bin/activate
 
-3. Установить зависимости
+3. Установить зависимости.
 
 pip install -r requirements.txt
 
